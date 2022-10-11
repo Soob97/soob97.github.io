@@ -84,7 +84,7 @@ body {
     justify-content: center;
     flex-direction: row wrap;
     position: relative;
-    
+    z-index: 1;
 }
 
 .tea-pictures img {
